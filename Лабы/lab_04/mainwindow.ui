@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>612</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Кнопочки управления лифтом</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="CabinButtonFloor1_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>40</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 1</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>10</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>ISOCPEUR</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Панель лифта 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor2_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>60</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor3_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>80</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor4_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>100</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor5_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>120</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor6_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>140</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 6</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor7_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>160</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 7</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor8_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>180</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 8</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor9_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>200</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 9</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor10_lift1">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>220</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 10</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>10</y>
+      <width>211</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>ISOCPEUR</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Кнопки вызова на этажах</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton1">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>40</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton2">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>60</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton3">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>80</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton4">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>100</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton7">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>160</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 7</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton6">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>140</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 6</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton5">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>120</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton8">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>180</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 8</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton10">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>220</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 10</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="FloorButton9">
+    <property name="geometry">
+     <rect>
+      <x>410</x>
+      <y>200</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Вызвать на этаже 9</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor9_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>200</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 9</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor2_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>60</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor7_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>160</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 7</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>10</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>ISOCPEUR</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Панель лифта 2</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor4_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>100</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 4</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor3_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>80</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 3</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor10_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>220</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 10</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor6_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>140</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 6</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor5_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>120</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor1_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>40</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="CabinButtonFloor8_lift2">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>180</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Поехать на этаж 8</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>612</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

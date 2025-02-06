@@ -1,0 +1,26 @@
+записи лекций 
+https://cloud.mail.ru/public/92Nu/yr4TWjZDJ?action=success_auth_when_download&app_id_mytracker=52864&authid=lxvo9v9e.hx&dwhsplit=s10273.b1ss12743c2s&from=other
+
+просто про паттерны
+https://habr.com/ru/articles/136766/
+https://yapro.ru/article/6406
+https://proglib.io/p/learn-oop-patterns
+https://javarush.com/groups/posts/1354-shablonih-proektirovanija-dlja-chaynikov
+https://github.com/XTDimasXT/BMSTU-OOP/wiki/ООП-00.-Диаграммы-паттернов-C
+https://y2kot.gitbook.io/untitled/patterns/oglavlenie
+https://github.com/Inspirate789/BMSTU-OOP-CPP/wiki/О-паттернах,-которые-я-использовал-в-3-лабораторной-работе
+
+идиомы
+https://makarov-ivan.gitbook.io/patterns/idioms-intro
+
+принципы ООП для чайников
+https://habr.com/ru/companies/otus/articles/764266/
+
+ответы на теорию к экзамену
+https://super-fascinator-305.notion.site/2022-d4734163215d440fad4da44e8426c4e4
+
+лекции по ООП
+https://github.com/chrislvt/OOP/wiki
+
+куча всего
+https://github.com/Mansurow/bmstu-iu7-4sem-OOP/wiki
